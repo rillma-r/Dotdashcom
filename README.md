@@ -3,6 +3,7 @@
 The test cases are located in below folder:
 
 - `src/testcases`
+- `src/pages`
 
 ## Getting Started
 
